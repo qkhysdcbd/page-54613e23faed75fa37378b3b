@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--ek13vpn-788l920j.com/sitemap.xml
